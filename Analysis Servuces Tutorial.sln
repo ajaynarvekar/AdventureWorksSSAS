@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "Analysis Servuces Tutorial", "Analysis Servuces Tutorial\Analysis Servuces Tutorial.dwproj", "{D1B5C83F-2BAD-4ED6-B9C3-A5C95DE5E324}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1B5C83F-2BAD-4ED6-B9C3-A5C95DE5E324}.Development|Default.ActiveCfg = Development
+		{D1B5C83F-2BAD-4ED6-B9C3-A5C95DE5E324}.Development|Default.Build.0 = Development
+		{D1B5C83F-2BAD-4ED6-B9C3-A5C95DE5E324}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B406158F-215E-42DB-9987-DAF24DB1B0E6}
+	EndGlobalSection
+EndGlobal
